@@ -31,3 +31,8 @@ Java: As the primary programming language for implementing the application's log
 Conclusion
 The Device Management Application serves as an educational project demonstrating the implementation of object-oriented programming concepts and JavaFX for GUI development. It showcases the ability to manage complex data structures (like devices) in a user-friendly manner, making it an excellent tool for learning and practice in software development.
 ```
+
+![Снимок экрана 2024-10-29 154034](https://github.com/user-attachments/assets/a2ad49d9-0951-4fb5-b965-66df71a3d1c7)
+![Снимок экрана 2024-10-29 154952](https://github.com/user-attachments/assets/399b608d-cf7c-46a9-a630-2e3f332b29e1)
+![Снимок экрана 2024-10-29 155446](https://github.com/user-attachments/assets/988587d6-99ee-4614-928c-4a738d3fb5d4)
+![Снимок экрана 2024-10-29 154932](https://github.com/user-attachments/assets/5eb8587d-de3e-4895-aee8-60a53259974c)
